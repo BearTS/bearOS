@@ -1,3 +1,3 @@
 # bearOS
-This is a Ubuntu Based Distribution
+This is a arch Based Distribution
 Check releases page for release
